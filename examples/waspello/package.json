@@ -16,7 +16,7 @@
     "react-dom": "^18.2.0",
     "react-feather": "2.0.10",
     "react-router-dom": "^6.26.2",
-    "react-tiny-popover": "7.1.0",
+    "react-tiny-popover": "7.2.4",
     "wasp": "file:.wasp/out/sdk/wasp"
   },
   "devDependencies": {
