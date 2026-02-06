@@ -16,7 +16,7 @@ FROM node:{= nodeVersion =}-alpine3.20 AS node
 # but only for building.
 
 
-FROM node AS base
+FROM node:25.6.0-bookworm AS base
 RUN apk --no-cache -U upgrade # To ensure any potential security patches are applied.
 
 
